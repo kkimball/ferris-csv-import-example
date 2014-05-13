@@ -1,0 +1,15 @@
+*.pyc
+ds
+*.coverage
+*~
+.appengine_data
+app.yaml
+ferris
+plugins
+packages
+.project
+.pydevproject
+app-server.sh
+appengine_config.py
+main.py
+main.pyc
