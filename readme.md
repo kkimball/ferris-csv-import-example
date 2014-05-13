@@ -6,9 +6,9 @@ This is an example csv import app for the Ferris Framework.  The intent is to sh
 Features
 ========
 
-  -- Import text from a csv file
-  -- Download and import files to the Blobstore from urls in your csv file
-  -- Use google.appengine.ext.deferred to tranfer processing to the task queue and avoid timeouts
+ -- Import text from a csv file
+ -- Download and import files to the Blobstore from urls in your csv file
+ -- Use google.appengine.ext.deferred to tranfer processing to the task queue and avoid timeouts
 
 Usage
 =====
